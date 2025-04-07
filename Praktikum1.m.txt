@@ -1,0 +1,5 @@
+%menghitung luas persegi
+panjang = 12
+lebar = 8
+Luas = panjang*lebar 
+
