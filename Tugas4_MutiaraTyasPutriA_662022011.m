@@ -1,3 +1,6 @@
+%Tugas 4 Mutiara Tyas Putri A 662022011
+%Menggambar grafik fungsi 
+
 % %1. Plot Fungsi Kuadrat
 % x = -10:0.1:10;
 % y = x.^2 - 5*x + 6;
